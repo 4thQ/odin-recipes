@@ -1,2 +1,2 @@
 # odin-recipes
-Howdy!
+Howdy!s
